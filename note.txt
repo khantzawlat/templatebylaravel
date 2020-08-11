@@ -4,3 +4,13 @@ Git Commands
 -git add .
 -git commit -m"message"
 -git push -u origin master
+
+git remote add origin url
+git remote rm origin
+
+git remote show origin
+
+ route
+ views
+ controller
+ using template
